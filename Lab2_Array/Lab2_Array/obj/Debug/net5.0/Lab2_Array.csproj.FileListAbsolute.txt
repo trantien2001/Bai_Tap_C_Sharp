@@ -1,0 +1,16 @@
+T:\WORKSPACE\C#\Lab2_Array\Lab2_Array\obj\Debug\net5.0\Lab2_Array.csproj.AssemblyReference.cache
+T:\WORKSPACE\C#\Lab2_Array\Lab2_Array\obj\Debug\net5.0\Lab2_Array.GeneratedMSBuildEditorConfig.editorconfig
+T:\WORKSPACE\C#\Lab2_Array\Lab2_Array\obj\Debug\net5.0\Lab2_Array.AssemblyInfoInputs.cache
+T:\WORKSPACE\C#\Lab2_Array\Lab2_Array\obj\Debug\net5.0\Lab2_Array.AssemblyInfo.cs
+T:\WORKSPACE\C#\Lab2_Array\Lab2_Array\obj\Debug\net5.0\Lab2_Array.csproj.CoreCompileInputs.cache
+T:\WORKSPACE\C#\Lab2_Array\Lab2_Array\bin\Debug\net5.0\Lab2_Array.exe
+T:\WORKSPACE\C#\Lab2_Array\Lab2_Array\bin\Debug\net5.0\Lab2_Array.deps.json
+T:\WORKSPACE\C#\Lab2_Array\Lab2_Array\bin\Debug\net5.0\Lab2_Array.runtimeconfig.json
+T:\WORKSPACE\C#\Lab2_Array\Lab2_Array\bin\Debug\net5.0\Lab2_Array.runtimeconfig.dev.json
+T:\WORKSPACE\C#\Lab2_Array\Lab2_Array\bin\Debug\net5.0\Lab2_Array.dll
+T:\WORKSPACE\C#\Lab2_Array\Lab2_Array\bin\Debug\net5.0\ref\Lab2_Array.dll
+T:\WORKSPACE\C#\Lab2_Array\Lab2_Array\bin\Debug\net5.0\Lab2_Array.pdb
+T:\WORKSPACE\C#\Lab2_Array\Lab2_Array\obj\Debug\net5.0\Lab2_Array.dll
+T:\WORKSPACE\C#\Lab2_Array\Lab2_Array\obj\Debug\net5.0\ref\Lab2_Array.dll
+T:\WORKSPACE\C#\Lab2_Array\Lab2_Array\obj\Debug\net5.0\Lab2_Array.pdb
+T:\WORKSPACE\C#\Lab2_Array\Lab2_Array\obj\Debug\net5.0\Lab2_Array.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+T:\WORKSPACE\C#\Lab1_Student_Information\Lab1_Student_Information\bin\Debug\netcoreapp3.1\Lab1_Student_Information.exe
+T:\WORKSPACE\C#\Lab1_Student_Information\Lab1_Student_Information\bin\Debug\netcoreapp3.1\Lab1_Student_Information.deps.json
+T:\WORKSPACE\C#\Lab1_Student_Information\Lab1_Student_Information\bin\Debug\netcoreapp3.1\Lab1_Student_Information.runtimeconfig.json
+T:\WORKSPACE\C#\Lab1_Student_Information\Lab1_Student_Information\bin\Debug\netcoreapp3.1\Lab1_Student_Information.runtimeconfig.dev.json
+T:\WORKSPACE\C#\Lab1_Student_Information\Lab1_Student_Information\bin\Debug\netcoreapp3.1\Lab1_Student_Information.dll
+T:\WORKSPACE\C#\Lab1_Student_Information\Lab1_Student_Information\bin\Debug\netcoreapp3.1\Lab1_Student_Information.pdb
+T:\WORKSPACE\C#\Lab1_Student_Information\Lab1_Student_Information\obj\Debug\netcoreapp3.1\Lab1_Student_Information.csproj.AssemblyReference.cache
+T:\WORKSPACE\C#\Lab1_Student_Information\Lab1_Student_Information\obj\Debug\netcoreapp3.1\Lab1_Student_Information.GeneratedMSBuildEditorConfig.editorconfig
+T:\WORKSPACE\C#\Lab1_Student_Information\Lab1_Student_Information\obj\Debug\netcoreapp3.1\Lab1_Student_Information.AssemblyInfoInputs.cache
+T:\WORKSPACE\C#\Lab1_Student_Information\Lab1_Student_Information\obj\Debug\netcoreapp3.1\Lab1_Student_Information.AssemblyInfo.cs
+T:\WORKSPACE\C#\Lab1_Student_Information\Lab1_Student_Information\obj\Debug\netcoreapp3.1\Lab1_Student_Information.csproj.CoreCompileInputs.cache
+T:\WORKSPACE\C#\Lab1_Student_Information\Lab1_Student_Information\obj\Debug\netcoreapp3.1\Lab1_Student_Information.dll
+T:\WORKSPACE\C#\Lab1_Student_Information\Lab1_Student_Information\obj\Debug\netcoreapp3.1\Lab1_Student_Information.pdb
+T:\WORKSPACE\C#\Lab1_Student_Information\Lab1_Student_Information\obj\Debug\netcoreapp3.1\Lab1_Student_Information.genruntimeconfig.cache

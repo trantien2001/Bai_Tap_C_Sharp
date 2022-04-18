@@ -1,0 +1,16 @@
+T:\WORKSPACE\C#\LAB1\LAB1\bin\Debug\net5.0\LAB1.exe
+T:\WORKSPACE\C#\LAB1\LAB1\bin\Debug\net5.0\LAB1.deps.json
+T:\WORKSPACE\C#\LAB1\LAB1\bin\Debug\net5.0\LAB1.runtimeconfig.json
+T:\WORKSPACE\C#\LAB1\LAB1\bin\Debug\net5.0\LAB1.runtimeconfig.dev.json
+T:\WORKSPACE\C#\LAB1\LAB1\bin\Debug\net5.0\LAB1.dll
+T:\WORKSPACE\C#\LAB1\LAB1\bin\Debug\net5.0\ref\LAB1.dll
+T:\WORKSPACE\C#\LAB1\LAB1\bin\Debug\net5.0\LAB1.pdb
+T:\WORKSPACE\C#\LAB1\LAB1\obj\Debug\net5.0\LAB1.csproj.AssemblyReference.cache
+T:\WORKSPACE\C#\LAB1\LAB1\obj\Debug\net5.0\LAB1.GeneratedMSBuildEditorConfig.editorconfig
+T:\WORKSPACE\C#\LAB1\LAB1\obj\Debug\net5.0\LAB1.AssemblyInfoInputs.cache
+T:\WORKSPACE\C#\LAB1\LAB1\obj\Debug\net5.0\LAB1.AssemblyInfo.cs
+T:\WORKSPACE\C#\LAB1\LAB1\obj\Debug\net5.0\LAB1.csproj.CoreCompileInputs.cache
+T:\WORKSPACE\C#\LAB1\LAB1\obj\Debug\net5.0\LAB1.dll
+T:\WORKSPACE\C#\LAB1\LAB1\obj\Debug\net5.0\ref\LAB1.dll
+T:\WORKSPACE\C#\LAB1\LAB1\obj\Debug\net5.0\LAB1.pdb
+T:\WORKSPACE\C#\LAB1\LAB1\obj\Debug\net5.0\LAB1.genruntimeconfig.cache

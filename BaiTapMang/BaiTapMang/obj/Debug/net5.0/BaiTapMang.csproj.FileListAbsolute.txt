@@ -1,0 +1,16 @@
+T:\WORKSPACE\C#\BaiTapMang\BaiTapMang\bin\Debug\net5.0\BaiTapMang.exe
+T:\WORKSPACE\C#\BaiTapMang\BaiTapMang\bin\Debug\net5.0\BaiTapMang.deps.json
+T:\WORKSPACE\C#\BaiTapMang\BaiTapMang\bin\Debug\net5.0\BaiTapMang.runtimeconfig.json
+T:\WORKSPACE\C#\BaiTapMang\BaiTapMang\bin\Debug\net5.0\BaiTapMang.runtimeconfig.dev.json
+T:\WORKSPACE\C#\BaiTapMang\BaiTapMang\bin\Debug\net5.0\BaiTapMang.dll
+T:\WORKSPACE\C#\BaiTapMang\BaiTapMang\bin\Debug\net5.0\ref\BaiTapMang.dll
+T:\WORKSPACE\C#\BaiTapMang\BaiTapMang\bin\Debug\net5.0\BaiTapMang.pdb
+T:\WORKSPACE\C#\BaiTapMang\BaiTapMang\obj\Debug\net5.0\BaiTapMang.csproj.AssemblyReference.cache
+T:\WORKSPACE\C#\BaiTapMang\BaiTapMang\obj\Debug\net5.0\BaiTapMang.GeneratedMSBuildEditorConfig.editorconfig
+T:\WORKSPACE\C#\BaiTapMang\BaiTapMang\obj\Debug\net5.0\BaiTapMang.AssemblyInfoInputs.cache
+T:\WORKSPACE\C#\BaiTapMang\BaiTapMang\obj\Debug\net5.0\BaiTapMang.AssemblyInfo.cs
+T:\WORKSPACE\C#\BaiTapMang\BaiTapMang\obj\Debug\net5.0\BaiTapMang.csproj.CoreCompileInputs.cache
+T:\WORKSPACE\C#\BaiTapMang\BaiTapMang\obj\Debug\net5.0\BaiTapMang.dll
+T:\WORKSPACE\C#\BaiTapMang\BaiTapMang\obj\Debug\net5.0\ref\BaiTapMang.dll
+T:\WORKSPACE\C#\BaiTapMang\BaiTapMang\obj\Debug\net5.0\BaiTapMang.pdb
+T:\WORKSPACE\C#\BaiTapMang\BaiTapMang\obj\Debug\net5.0\BaiTapMang.genruntimeconfig.cache

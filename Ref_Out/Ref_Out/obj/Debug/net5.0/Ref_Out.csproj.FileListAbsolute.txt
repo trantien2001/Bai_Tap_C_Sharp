@@ -1,0 +1,16 @@
+T:\WORKSPACE\C#\Ref_Out\Ref_Out\bin\Debug\net5.0\Ref_Out.exe
+T:\WORKSPACE\C#\Ref_Out\Ref_Out\bin\Debug\net5.0\Ref_Out.deps.json
+T:\WORKSPACE\C#\Ref_Out\Ref_Out\bin\Debug\net5.0\Ref_Out.runtimeconfig.json
+T:\WORKSPACE\C#\Ref_Out\Ref_Out\bin\Debug\net5.0\Ref_Out.runtimeconfig.dev.json
+T:\WORKSPACE\C#\Ref_Out\Ref_Out\bin\Debug\net5.0\Ref_Out.dll
+T:\WORKSPACE\C#\Ref_Out\Ref_Out\bin\Debug\net5.0\ref\Ref_Out.dll
+T:\WORKSPACE\C#\Ref_Out\Ref_Out\bin\Debug\net5.0\Ref_Out.pdb
+T:\WORKSPACE\C#\Ref_Out\Ref_Out\obj\Debug\net5.0\Ref_Out.csproj.AssemblyReference.cache
+T:\WORKSPACE\C#\Ref_Out\Ref_Out\obj\Debug\net5.0\Ref_Out.GeneratedMSBuildEditorConfig.editorconfig
+T:\WORKSPACE\C#\Ref_Out\Ref_Out\obj\Debug\net5.0\Ref_Out.AssemblyInfoInputs.cache
+T:\WORKSPACE\C#\Ref_Out\Ref_Out\obj\Debug\net5.0\Ref_Out.AssemblyInfo.cs
+T:\WORKSPACE\C#\Ref_Out\Ref_Out\obj\Debug\net5.0\Ref_Out.csproj.CoreCompileInputs.cache
+T:\WORKSPACE\C#\Ref_Out\Ref_Out\obj\Debug\net5.0\Ref_Out.dll
+T:\WORKSPACE\C#\Ref_Out\Ref_Out\obj\Debug\net5.0\ref\Ref_Out.dll
+T:\WORKSPACE\C#\Ref_Out\Ref_Out\obj\Debug\net5.0\Ref_Out.pdb
+T:\WORKSPACE\C#\Ref_Out\Ref_Out\obj\Debug\net5.0\Ref_Out.genruntimeconfig.cache

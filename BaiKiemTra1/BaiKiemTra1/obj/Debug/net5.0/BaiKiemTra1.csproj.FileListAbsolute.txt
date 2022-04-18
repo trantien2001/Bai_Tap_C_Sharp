@@ -1,0 +1,16 @@
+T:\WORKSPACE\C#\BaiKiemTra1\BaiKiemTra1\bin\Debug\net5.0\BaiKiemTra1.exe
+T:\WORKSPACE\C#\BaiKiemTra1\BaiKiemTra1\bin\Debug\net5.0\BaiKiemTra1.deps.json
+T:\WORKSPACE\C#\BaiKiemTra1\BaiKiemTra1\bin\Debug\net5.0\BaiKiemTra1.runtimeconfig.json
+T:\WORKSPACE\C#\BaiKiemTra1\BaiKiemTra1\bin\Debug\net5.0\BaiKiemTra1.runtimeconfig.dev.json
+T:\WORKSPACE\C#\BaiKiemTra1\BaiKiemTra1\bin\Debug\net5.0\BaiKiemTra1.dll
+T:\WORKSPACE\C#\BaiKiemTra1\BaiKiemTra1\bin\Debug\net5.0\ref\BaiKiemTra1.dll
+T:\WORKSPACE\C#\BaiKiemTra1\BaiKiemTra1\bin\Debug\net5.0\BaiKiemTra1.pdb
+T:\WORKSPACE\C#\BaiKiemTra1\BaiKiemTra1\obj\Debug\net5.0\BaiKiemTra1.csproj.AssemblyReference.cache
+T:\WORKSPACE\C#\BaiKiemTra1\BaiKiemTra1\obj\Debug\net5.0\BaiKiemTra1.GeneratedMSBuildEditorConfig.editorconfig
+T:\WORKSPACE\C#\BaiKiemTra1\BaiKiemTra1\obj\Debug\net5.0\BaiKiemTra1.AssemblyInfoInputs.cache
+T:\WORKSPACE\C#\BaiKiemTra1\BaiKiemTra1\obj\Debug\net5.0\BaiKiemTra1.AssemblyInfo.cs
+T:\WORKSPACE\C#\BaiKiemTra1\BaiKiemTra1\obj\Debug\net5.0\BaiKiemTra1.csproj.CoreCompileInputs.cache
+T:\WORKSPACE\C#\BaiKiemTra1\BaiKiemTra1\obj\Debug\net5.0\BaiKiemTra1.dll
+T:\WORKSPACE\C#\BaiKiemTra1\BaiKiemTra1\obj\Debug\net5.0\ref\BaiKiemTra1.dll
+T:\WORKSPACE\C#\BaiKiemTra1\BaiKiemTra1\obj\Debug\net5.0\BaiKiemTra1.pdb
+T:\WORKSPACE\C#\BaiKiemTra1\BaiKiemTra1\obj\Debug\net5.0\BaiKiemTra1.genruntimeconfig.cache
