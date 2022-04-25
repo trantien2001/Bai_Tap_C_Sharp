@@ -1,0 +1,16 @@
+T:\WORKSPACE\C#\LapTrinhHuongDoiTuong\Bai1\Bai1\bin\Debug\net5.0\Bai1.exe
+T:\WORKSPACE\C#\LapTrinhHuongDoiTuong\Bai1\Bai1\bin\Debug\net5.0\Bai1.deps.json
+T:\WORKSPACE\C#\LapTrinhHuongDoiTuong\Bai1\Bai1\bin\Debug\net5.0\Bai1.runtimeconfig.json
+T:\WORKSPACE\C#\LapTrinhHuongDoiTuong\Bai1\Bai1\bin\Debug\net5.0\Bai1.runtimeconfig.dev.json
+T:\WORKSPACE\C#\LapTrinhHuongDoiTuong\Bai1\Bai1\bin\Debug\net5.0\Bai1.dll
+T:\WORKSPACE\C#\LapTrinhHuongDoiTuong\Bai1\Bai1\bin\Debug\net5.0\ref\Bai1.dll
+T:\WORKSPACE\C#\LapTrinhHuongDoiTuong\Bai1\Bai1\bin\Debug\net5.0\Bai1.pdb
+T:\WORKSPACE\C#\LapTrinhHuongDoiTuong\Bai1\Bai1\obj\Debug\net5.0\Bai1.csproj.AssemblyReference.cache
+T:\WORKSPACE\C#\LapTrinhHuongDoiTuong\Bai1\Bai1\obj\Debug\net5.0\Bai1.GeneratedMSBuildEditorConfig.editorconfig
+T:\WORKSPACE\C#\LapTrinhHuongDoiTuong\Bai1\Bai1\obj\Debug\net5.0\Bai1.AssemblyInfoInputs.cache
+T:\WORKSPACE\C#\LapTrinhHuongDoiTuong\Bai1\Bai1\obj\Debug\net5.0\Bai1.AssemblyInfo.cs
+T:\WORKSPACE\C#\LapTrinhHuongDoiTuong\Bai1\Bai1\obj\Debug\net5.0\Bai1.csproj.CoreCompileInputs.cache
+T:\WORKSPACE\C#\LapTrinhHuongDoiTuong\Bai1\Bai1\obj\Debug\net5.0\Bai1.dll
+T:\WORKSPACE\C#\LapTrinhHuongDoiTuong\Bai1\Bai1\obj\Debug\net5.0\ref\Bai1.dll
+T:\WORKSPACE\C#\LapTrinhHuongDoiTuong\Bai1\Bai1\obj\Debug\net5.0\Bai1.pdb
+T:\WORKSPACE\C#\LapTrinhHuongDoiTuong\Bai1\Bai1\obj\Debug\net5.0\Bai1.genruntimeconfig.cache
