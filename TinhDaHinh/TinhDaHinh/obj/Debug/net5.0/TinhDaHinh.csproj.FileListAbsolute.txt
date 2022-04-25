@@ -1,0 +1,16 @@
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\TinhDaHinh\TinhDaHinh\bin\Debug\net5.0\TinhDaHinh.exe
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\TinhDaHinh\TinhDaHinh\bin\Debug\net5.0\TinhDaHinh.deps.json
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\TinhDaHinh\TinhDaHinh\bin\Debug\net5.0\TinhDaHinh.runtimeconfig.json
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\TinhDaHinh\TinhDaHinh\bin\Debug\net5.0\TinhDaHinh.runtimeconfig.dev.json
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\TinhDaHinh\TinhDaHinh\bin\Debug\net5.0\TinhDaHinh.dll
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\TinhDaHinh\TinhDaHinh\bin\Debug\net5.0\ref\TinhDaHinh.dll
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\TinhDaHinh\TinhDaHinh\bin\Debug\net5.0\TinhDaHinh.pdb
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\TinhDaHinh\TinhDaHinh\obj\Debug\net5.0\TinhDaHinh.csproj.AssemblyReference.cache
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\TinhDaHinh\TinhDaHinh\obj\Debug\net5.0\TinhDaHinh.GeneratedMSBuildEditorConfig.editorconfig
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\TinhDaHinh\TinhDaHinh\obj\Debug\net5.0\TinhDaHinh.AssemblyInfoInputs.cache
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\TinhDaHinh\TinhDaHinh\obj\Debug\net5.0\TinhDaHinh.AssemblyInfo.cs
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\TinhDaHinh\TinhDaHinh\obj\Debug\net5.0\TinhDaHinh.csproj.CoreCompileInputs.cache
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\TinhDaHinh\TinhDaHinh\obj\Debug\net5.0\TinhDaHinh.dll
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\TinhDaHinh\TinhDaHinh\obj\Debug\net5.0\ref\TinhDaHinh.dll
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\TinhDaHinh\TinhDaHinh\obj\Debug\net5.0\TinhDaHinh.pdb
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\TinhDaHinh\TinhDaHinh\obj\Debug\net5.0\TinhDaHinh.genruntimeconfig.cache
