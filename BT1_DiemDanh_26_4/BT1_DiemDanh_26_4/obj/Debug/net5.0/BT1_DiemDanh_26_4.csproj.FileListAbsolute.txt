@@ -1,0 +1,16 @@
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\BT1_DiemDanh_26_4\BT1_DiemDanh_26_4\bin\Debug\net5.0\BT1_DiemDanh_26_4.exe
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\BT1_DiemDanh_26_4\BT1_DiemDanh_26_4\bin\Debug\net5.0\BT1_DiemDanh_26_4.deps.json
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\BT1_DiemDanh_26_4\BT1_DiemDanh_26_4\bin\Debug\net5.0\BT1_DiemDanh_26_4.runtimeconfig.json
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\BT1_DiemDanh_26_4\BT1_DiemDanh_26_4\bin\Debug\net5.0\BT1_DiemDanh_26_4.runtimeconfig.dev.json
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\BT1_DiemDanh_26_4\BT1_DiemDanh_26_4\bin\Debug\net5.0\BT1_DiemDanh_26_4.dll
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\BT1_DiemDanh_26_4\BT1_DiemDanh_26_4\bin\Debug\net5.0\ref\BT1_DiemDanh_26_4.dll
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\BT1_DiemDanh_26_4\BT1_DiemDanh_26_4\bin\Debug\net5.0\BT1_DiemDanh_26_4.pdb
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\BT1_DiemDanh_26_4\BT1_DiemDanh_26_4\obj\Debug\net5.0\BT1_DiemDanh_26_4.csproj.AssemblyReference.cache
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\BT1_DiemDanh_26_4\BT1_DiemDanh_26_4\obj\Debug\net5.0\BT1_DiemDanh_26_4.GeneratedMSBuildEditorConfig.editorconfig
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\BT1_DiemDanh_26_4\BT1_DiemDanh_26_4\obj\Debug\net5.0\BT1_DiemDanh_26_4.AssemblyInfoInputs.cache
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\BT1_DiemDanh_26_4\BT1_DiemDanh_26_4\obj\Debug\net5.0\BT1_DiemDanh_26_4.AssemblyInfo.cs
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\BT1_DiemDanh_26_4\BT1_DiemDanh_26_4\obj\Debug\net5.0\BT1_DiemDanh_26_4.csproj.CoreCompileInputs.cache
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\BT1_DiemDanh_26_4\BT1_DiemDanh_26_4\obj\Debug\net5.0\BT1_DiemDanh_26_4.dll
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\BT1_DiemDanh_26_4\BT1_DiemDanh_26_4\obj\Debug\net5.0\ref\BT1_DiemDanh_26_4.dll
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\BT1_DiemDanh_26_4\BT1_DiemDanh_26_4\obj\Debug\net5.0\BT1_DiemDanh_26_4.pdb
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\BT1_DiemDanh_26_4\BT1_DiemDanh_26_4\obj\Debug\net5.0\BT1_DiemDanh_26_4.genruntimeconfig.cache
