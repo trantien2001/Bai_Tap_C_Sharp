@@ -32,8 +32,7 @@ namespace BT1_DiemDanh_26_4
             double x1_252, x2_252;
             x1_252 = (- b_252 - Math.Sqrt(Delta(a_252, b_252, c_252))) / (2 * a_252);
             x2_252 = (- b_252 + Math.Sqrt(Delta(a_252, b_252, c_252))) / (2 * a_252);
-
-            Console.WriteLine("Nghiem cua phuong trinh: x1= " + x1_252 + ", x2 = " + x2_252);
+            Console.WriteLine("Nghiem cua phuong trinh la: x1 = " + x1_252 + ", x2 = " + x2_252);
         }
 
     }

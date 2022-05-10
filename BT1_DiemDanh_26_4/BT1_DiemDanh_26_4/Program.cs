@@ -7,7 +7,9 @@ namespace BT1_DiemDanh_26_4
         static void Main(string[] args)
         {
             PhuongTrinhBac2 pt = new PhuongTrinhBac2();
-            pt.Nghiem(1, 2, 1);
+            
+            pt.Nghiem(3, 5, 1);
+            Console.ReadKey();
         }
     }
 }

@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace BT2_DiemDanh_26_4
 {
-    class Animal
+    abstract class Animal
     {
+        public void Eat() { }
+        public void MakeSound() { }
+
     }
 }

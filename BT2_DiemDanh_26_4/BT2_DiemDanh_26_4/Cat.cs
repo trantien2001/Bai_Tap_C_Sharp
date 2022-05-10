@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace BT2_DiemDanh_26_4
 {
-    class Cat
+    internal class Cat : Animal
     {
+        public void Run() 
+        {
+            Console.WriteLine("Lop Cat");
+        }
     }
 }
