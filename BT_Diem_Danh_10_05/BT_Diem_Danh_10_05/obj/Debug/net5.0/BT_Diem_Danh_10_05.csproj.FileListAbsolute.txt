@@ -1,0 +1,16 @@
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\BT_Diem_Danh_10_05\BT_Diem_Danh_10_05\bin\Debug\net5.0\BT_Diem_Danh_10_05.exe
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\BT_Diem_Danh_10_05\BT_Diem_Danh_10_05\bin\Debug\net5.0\BT_Diem_Danh_10_05.deps.json
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\BT_Diem_Danh_10_05\BT_Diem_Danh_10_05\bin\Debug\net5.0\BT_Diem_Danh_10_05.runtimeconfig.json
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\BT_Diem_Danh_10_05\BT_Diem_Danh_10_05\bin\Debug\net5.0\BT_Diem_Danh_10_05.runtimeconfig.dev.json
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\BT_Diem_Danh_10_05\BT_Diem_Danh_10_05\bin\Debug\net5.0\BT_Diem_Danh_10_05.dll
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\BT_Diem_Danh_10_05\BT_Diem_Danh_10_05\bin\Debug\net5.0\ref\BT_Diem_Danh_10_05.dll
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\BT_Diem_Danh_10_05\BT_Diem_Danh_10_05\bin\Debug\net5.0\BT_Diem_Danh_10_05.pdb
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\BT_Diem_Danh_10_05\BT_Diem_Danh_10_05\obj\Debug\net5.0\BT_Diem_Danh_10_05.csproj.AssemblyReference.cache
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\BT_Diem_Danh_10_05\BT_Diem_Danh_10_05\obj\Debug\net5.0\BT_Diem_Danh_10_05.GeneratedMSBuildEditorConfig.editorconfig
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\BT_Diem_Danh_10_05\BT_Diem_Danh_10_05\obj\Debug\net5.0\BT_Diem_Danh_10_05.AssemblyInfoInputs.cache
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\BT_Diem_Danh_10_05\BT_Diem_Danh_10_05\obj\Debug\net5.0\BT_Diem_Danh_10_05.AssemblyInfo.cs
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\BT_Diem_Danh_10_05\BT_Diem_Danh_10_05\obj\Debug\net5.0\BT_Diem_Danh_10_05.csproj.CoreCompileInputs.cache
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\BT_Diem_Danh_10_05\BT_Diem_Danh_10_05\obj\Debug\net5.0\BT_Diem_Danh_10_05.dll
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\BT_Diem_Danh_10_05\BT_Diem_Danh_10_05\obj\Debug\net5.0\ref\BT_Diem_Danh_10_05.dll
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\BT_Diem_Danh_10_05\BT_Diem_Danh_10_05\obj\Debug\net5.0\BT_Diem_Danh_10_05.pdb
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\BT_Diem_Danh_10_05\BT_Diem_Danh_10_05\obj\Debug\net5.0\BT_Diem_Danh_10_05.genruntimeconfig.cache
