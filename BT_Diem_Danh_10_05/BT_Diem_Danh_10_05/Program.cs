@@ -15,7 +15,7 @@ namespace BT_Diem_Danh_10_05
                 a_252[i_252] = int.Parse(Console.ReadLine());
             }
             int min_252 = a_252[0], max_252 = a_252[0];
-            //// Sắp xếp tăng
+            #region Sắp xếp tăng
             for (i_252 = 0; i_252 < 10; i_252++)
             {
                 for (j_252 = i_252 + 1; j_252 < 10; j_252++)
@@ -33,8 +33,8 @@ namespace BT_Diem_Danh_10_05
             {
                 Console.Write(" " + a_252[i_252]);
             }
-
-            // Sắp xếp giam
+            #endregion
+            #region Sắp xếp giảm
             for (i_252 = 0; i_252 < 10; i_252++)
             {
                 for (j_252 = i_252 + 1; j_252 < 10; j_252++)
@@ -52,8 +52,8 @@ namespace BT_Diem_Danh_10_05
             {
                 Console.Write(" " + a_252[i_252]);
             }
-
-            // Tim min max
+            #endregion
+            #region  Tim min max
             for (i_252 = 0; i_252 < 10; i_252++)
             {
                 if (a_252[i_252] < min_252)
@@ -65,8 +65,9 @@ namespace BT_Diem_Danh_10_05
                     max_252 = a_252[i_252];
                 }
             }
-            Console.WriteLine("Gia tri min: " + min_252);
+            Console.WriteLine("\nGia tri min: " + min_252);
             Console.WriteLine("Gia tri max: " + max_252);
+            #endregion
 
         }
         static void Main(string[] args)
