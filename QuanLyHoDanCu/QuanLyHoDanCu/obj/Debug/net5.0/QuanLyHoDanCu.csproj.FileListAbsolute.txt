@@ -1,0 +1,16 @@
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\QuanLyHoDanCu\QuanLyHoDanCu\bin\Debug\net5.0\QuanLyHoDanCu.exe
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\QuanLyHoDanCu\QuanLyHoDanCu\bin\Debug\net5.0\QuanLyHoDanCu.deps.json
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\QuanLyHoDanCu\QuanLyHoDanCu\bin\Debug\net5.0\QuanLyHoDanCu.runtimeconfig.json
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\QuanLyHoDanCu\QuanLyHoDanCu\bin\Debug\net5.0\QuanLyHoDanCu.runtimeconfig.dev.json
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\QuanLyHoDanCu\QuanLyHoDanCu\bin\Debug\net5.0\QuanLyHoDanCu.dll
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\QuanLyHoDanCu\QuanLyHoDanCu\bin\Debug\net5.0\ref\QuanLyHoDanCu.dll
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\QuanLyHoDanCu\QuanLyHoDanCu\bin\Debug\net5.0\QuanLyHoDanCu.pdb
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\QuanLyHoDanCu\QuanLyHoDanCu\obj\Debug\net5.0\QuanLyHoDanCu.csproj.AssemblyReference.cache
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\QuanLyHoDanCu\QuanLyHoDanCu\obj\Debug\net5.0\QuanLyHoDanCu.GeneratedMSBuildEditorConfig.editorconfig
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\QuanLyHoDanCu\QuanLyHoDanCu\obj\Debug\net5.0\QuanLyHoDanCu.AssemblyInfoInputs.cache
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\QuanLyHoDanCu\QuanLyHoDanCu\obj\Debug\net5.0\QuanLyHoDanCu.AssemblyInfo.cs
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\QuanLyHoDanCu\QuanLyHoDanCu\obj\Debug\net5.0\QuanLyHoDanCu.csproj.CoreCompileInputs.cache
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\QuanLyHoDanCu\QuanLyHoDanCu\obj\Debug\net5.0\QuanLyHoDanCu.dll
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\QuanLyHoDanCu\QuanLyHoDanCu\obj\Debug\net5.0\ref\QuanLyHoDanCu.dll
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\QuanLyHoDanCu\QuanLyHoDanCu\obj\Debug\net5.0\QuanLyHoDanCu.pdb
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\QuanLyHoDanCu\QuanLyHoDanCu\obj\Debug\net5.0\QuanLyHoDanCu.genruntimeconfig.cache

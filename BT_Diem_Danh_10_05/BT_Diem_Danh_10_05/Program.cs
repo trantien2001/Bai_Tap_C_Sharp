@@ -15,6 +15,7 @@ namespace BT_Diem_Danh_10_05
                 a_252[i_252] = int.Parse(Console.ReadLine());
             }
             int min_252 = a_252[0], max_252 = a_252[0];
+
             #region Sắp xếp tăng
             for (i_252 = 0; i_252 < 10; i_252++)
             {
@@ -34,6 +35,7 @@ namespace BT_Diem_Danh_10_05
                 Console.Write(" " + a_252[i_252]);
             }
             #endregion
+            
             #region Sắp xếp giảm
             for (i_252 = 0; i_252 < 10; i_252++)
             {
@@ -53,6 +55,7 @@ namespace BT_Diem_Danh_10_05
                 Console.Write(" " + a_252[i_252]);
             }
             #endregion
+            
             #region  Tim min max
             for (i_252 = 0; i_252 < 10; i_252++)
             {
@@ -70,6 +73,9 @@ namespace BT_Diem_Danh_10_05
             #endregion
 
         }
+
+
+
         static void Main(string[] args)
         {
             NhapMang();
