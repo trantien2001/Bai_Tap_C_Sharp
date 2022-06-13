@@ -11,7 +11,6 @@ namespace QuanLyHoDanCu
         private int soThanhVien_252;
         private int soNha_252;
         private Nguoi[] tv_252 = new Nguoi[10];
-
         public int SoThanhVien_252 { get => soThanhVien_252; set => soThanhVien_252 = value; }
         public int SoNha_252 { get => soNha_252; set => soNha_252 = value; }
         internal Nguoi[] Tv_252 { get => tv_252; set => tv_252 = value; }

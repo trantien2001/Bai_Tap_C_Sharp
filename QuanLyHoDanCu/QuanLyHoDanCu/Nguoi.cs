@@ -22,12 +22,10 @@ namespace QuanLyHoDanCu
             this.ngheNghiep_252 = ngheNghiep_252;
             this.cmnd_252 = cmnd_252;
         }
-
         public string HoTen_252 { get => hoTen_252; set => hoTen_252 = value; }
         public int Tuoi_252 { get => tuoi_252; set => tuoi_252 = value; }
         public string NgheNgiep_252 { get => ngheNghiep_252; set => ngheNghiep_252 = value; }
         public int Cmnd_252 { get => cmnd_252; set => cmnd_252 = value; }
-
         public void NhapThongTinNguoi()
         {
             Console.WriteLine("Nhap ho va ten : ");
@@ -42,7 +40,8 @@ namespace QuanLyHoDanCu
 
         public void InThongTinNguoi()
         {
-            Console.WriteLine("Ho ten: {0}, Tuoi: {1}, Nghe nghiep: {2}, CMND: {3}", hoTen_252, tuoi_252, ngheNghiep_252, cmnd_252);
+            Console.WriteLine("Ho ten: {0}, Tuoi: {1}, Nghe nghiep: {2}, CMND: {3}",
+                hoTen_252, tuoi_252, ngheNghiep_252, cmnd_252);
         }
     }
 }
