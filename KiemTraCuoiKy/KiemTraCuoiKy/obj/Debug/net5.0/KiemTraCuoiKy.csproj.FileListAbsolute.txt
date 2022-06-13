@@ -1,0 +1,16 @@
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\KiemTraCuoiKy\KiemTraCuoiKy\bin\Debug\net5.0\KiemTraCuoiKy.exe
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\KiemTraCuoiKy\KiemTraCuoiKy\bin\Debug\net5.0\KiemTraCuoiKy.deps.json
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\KiemTraCuoiKy\KiemTraCuoiKy\bin\Debug\net5.0\KiemTraCuoiKy.runtimeconfig.json
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\KiemTraCuoiKy\KiemTraCuoiKy\bin\Debug\net5.0\KiemTraCuoiKy.runtimeconfig.dev.json
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\KiemTraCuoiKy\KiemTraCuoiKy\bin\Debug\net5.0\KiemTraCuoiKy.dll
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\KiemTraCuoiKy\KiemTraCuoiKy\bin\Debug\net5.0\ref\KiemTraCuoiKy.dll
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\KiemTraCuoiKy\KiemTraCuoiKy\bin\Debug\net5.0\KiemTraCuoiKy.pdb
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\KiemTraCuoiKy\KiemTraCuoiKy\obj\Debug\net5.0\KiemTraCuoiKy.csproj.AssemblyReference.cache
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\KiemTraCuoiKy\KiemTraCuoiKy\obj\Debug\net5.0\KiemTraCuoiKy.GeneratedMSBuildEditorConfig.editorconfig
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\KiemTraCuoiKy\KiemTraCuoiKy\obj\Debug\net5.0\KiemTraCuoiKy.AssemblyInfoInputs.cache
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\KiemTraCuoiKy\KiemTraCuoiKy\obj\Debug\net5.0\KiemTraCuoiKy.AssemblyInfo.cs
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\KiemTraCuoiKy\KiemTraCuoiKy\obj\Debug\net5.0\KiemTraCuoiKy.csproj.CoreCompileInputs.cache
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\KiemTraCuoiKy\KiemTraCuoiKy\obj\Debug\net5.0\KiemTraCuoiKy.dll
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\KiemTraCuoiKy\KiemTraCuoiKy\obj\Debug\net5.0\ref\KiemTraCuoiKy.dll
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\KiemTraCuoiKy\KiemTraCuoiKy\obj\Debug\net5.0\KiemTraCuoiKy.pdb
+T:\WORKSPACE\C#\Bai_Tap_C_Sharp\KiemTraCuoiKy\KiemTraCuoiKy\obj\Debug\net5.0\KiemTraCuoiKy.genruntimeconfig.cache
